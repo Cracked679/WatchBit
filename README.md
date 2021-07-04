@@ -1,5 +1,3 @@
-# WatchBit
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h1 align="center">WatchBit</h1>
